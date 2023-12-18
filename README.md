@@ -1,0 +1,2 @@
+In this repository, I'm going to create a basic recipe website, with an index page and links to recipes on other web pages.
+This practice will give me the knowledge to create the html of a basic website, including links, images, paragraphs and other elements.
